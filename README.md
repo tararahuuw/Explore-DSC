@@ -11,4 +11,8 @@ Youtube : tararahuuw
 
 Linkedin : https://www.linkedin.com/in/muhammad-fahmi-alamsyah-0319521b4/
 
+Project App : https://github.com/tararahuuw/My-Project-
+
+Project Game : https://github.com/tararahuuw/ZeldaLite
+
 :)))
